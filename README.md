@@ -1,2 +1,2 @@
 # MoringaCore-Wk.2
- Data Analysis using Principles of Exploratory Data 
+ Analysis Financial Inclusion Dataset using Principles of Exploratory Data Analysis 
